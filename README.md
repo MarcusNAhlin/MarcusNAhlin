@@ -15,6 +15,7 @@ Hi! My name is Marcus Nilsson Ahlin and I currently study web development at [BT
   <img src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" alt="Docker Logo" title="Docker Logo" style="width: 30px;">
   <img src="https://cdn.jsdelivr.net/npm/@programming-languages-logos/python@0.0.0/python.svg" alt="Python Logo" title="Python Logo" style="width: 30px;">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React Logo" title="React Logo" style="width: 30px;">
+  <img src="https://cdn.jsdelivr.net/npm/@programming-languages-logos/vue@0.0.8/vue.svg" alt="Vue Logo" title="Vue Logo" style="width: 30px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js Logo" title="Next.js Logo" style="width: 30px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL (MySQL) Logo" title="SQL (MySQL) Logo" style="width: 30px;">
   <img src="https://cdn.jsdelivr.net/npm/@programming-languages-logos/php@0.0.0/php.svg" alt="PHP Logo" title="PHP Logo" style="width: 30px;">

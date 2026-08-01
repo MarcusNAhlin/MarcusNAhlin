@@ -10,7 +10,7 @@ Hi! My name is Marcus N Ahlin, and I recently graduated with a degree in web dev
 
 **Frameworks & Libraries**
 
-![Frameworks](https://skillicons.dev/icons?i=react,nextjs,vue)
+![Frameworks](https://skillicons.dev/icons?i=react,nextjs,vue,angular)
 
 **Markup & Styling**
 

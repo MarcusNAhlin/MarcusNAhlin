@@ -11,6 +11,7 @@ Hi! My name is Marcus N Ahlin, and I recently graduated with a degree in web dev
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS Logo" title="CSS Logo" style="width: 30px;">
   <img src="https://cdn.jsdelivr.net/npm/@programming-languages-logos/javascript@0.0.0/javascript.svg" alt="JavaScript Logo" title="JavaScript Logo" style="width: 30px;">
   <img src="https://cdn.jsdelivr.net/npm/@programming-languages-logos/typescript@0.0.0/typescript.svg" alt="TypeScript Logo" title="TypeScript Logo" style="width: 30px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java Logo" title="Java Logo" style="width: 30px;">
   <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git Logo" title="Git Logo" style="width: 30px;">
   <img src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" alt="Docker Logo" title="Docker Logo" style="width: 30px;">
   <img src="https://cdn.jsdelivr.net/npm/@programming-languages-logos/python@0.0.0/python.svg" alt="Python Logo" title="Python Logo" style="width: 30px;">

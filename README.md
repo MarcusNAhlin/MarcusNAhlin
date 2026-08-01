@@ -1,11 +1,11 @@
-# 🌐 Marcus Nilsson Ahlin
+# Marcus N Ahlin
 
-## ℹ️ About Me
+## About Me
 Hi! My name is Marcus N Ahlin, and I recently graduated with a degree in web development from [BTH](https://www.bth.se/eng/).
 
 ---
 
-## 🧰 Language and Tools 
+## Language and Tools 
 <div style="display: inline-block;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML Logo" title="HTML Logo" style="width: 30px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS Logo" title="CSS Logo" style="width: 30px;">

@@ -1,6 +1,5 @@
 # Marcus N Ahlin
 
-## About Me
 Hi! My name is Marcus N Ahlin, and I recently graduated with a degree in web development from [BTH](https://www.bth.se/eng/).
 
 ---

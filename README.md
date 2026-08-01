@@ -1,7 +1,7 @@
 # 🌐 Marcus Nilsson Ahlin
 
 ## ℹ️ About Me
-Hi! My name is Marcus Nilsson Ahlin and I currently study web development at [BTH](https://www.bth.se/eng/).
+Hi! My name is Marcus N Ahlin, and I recently graduated with a degree in web development from [BTH](https://www.bth.se/eng/).
 
 ---
 
